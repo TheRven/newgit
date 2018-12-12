@@ -3,3 +3,4 @@ Git is a good thing very OK
 Test stage
 change one
 change two
+change three
